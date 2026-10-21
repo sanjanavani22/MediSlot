@@ -1,6 +1,6 @@
 # MediSlot: Clinic Appointment Booking System
 
-A Flask + SQLite + HTML/CSS appointment booking app based on the supplied AAT-1 report.
+A Flask + SQLite + HTML/CSS appointment booking app.
 
 ## Features
 - Doctor directory with specialization, fee and weekly availability
